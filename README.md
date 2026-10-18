@@ -2,6 +2,9 @@
 
 bash 의 기본적인 작동을 동일하게 작동하도록 만드는 과제
 
+<img width="1254" height="1254" alt="ChatGPT 이미지 2026년 10월 18일 오후 09_04_54-7" src="https://github.com/user-attachments/assets/06c88068-3db2-480a-823d-d1bef22ec7b8" />
+
+
 ## 허용함수
 
 printf, malloc, free, write, open, read, close,
